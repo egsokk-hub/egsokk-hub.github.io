@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://egsokk-hub.github.io/sitemap.xml
